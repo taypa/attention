@@ -1,1 +1,1 @@
-
+Т.к в некоторый архитектурах необходим слой AdaptiveAvgPool2D, а в Tensorflow нет реализации этого слоя, был использован пользовательский слой: https://gist.github.com/Rocketknight1/efc47242914788def0144b341b1ad638
